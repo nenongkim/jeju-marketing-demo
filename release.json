@@ -1,5 +1,5 @@
 {
-  "source_commit": "be43dda2e1fd4abc2e8eeadd054149bb9162f1df",
+  "source_commit": "9d7bcad1594eaafb1184fde834d45988e4ff0ebf",
   "files": [
     "index.html",
     "case.css",
@@ -7,6 +7,9 @@
     "workflow.js",
     "recent.js",
     "case-data.json",
-    "recent-data.json"
+    "recent-data.json",
+    "figma.css",
+    "figma-ui.js",
+    "app.js"
   ]
 }
